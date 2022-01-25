@@ -1,7 +1,0 @@
-# CLion
-.idea/*
-
-# Build directories:
-build/
-builds/
-cmake-build-*/
